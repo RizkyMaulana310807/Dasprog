@@ -1,3 +1,9 @@
+/*
+Nama : Rizky Maulana
+Kelas : X Oracle 
+*/
+
+
 import java.util.Scanner;
 
 public class tugasKedua{
