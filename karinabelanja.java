@@ -13,6 +13,6 @@ public class karinabelanja {
         } else if(nilai >= 100000){
             System.out.println("====== Kamu mendapat diskon 2% ======");
         }
-        
+        input.close();
     }
 }

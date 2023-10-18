@@ -10,5 +10,6 @@ public class ifkondisi2 {
         } else if(nilai > 100){
             System.out.println("Kamu mendaoat");
         }
+        input.close();
     }
 }
