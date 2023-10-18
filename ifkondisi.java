@@ -5,7 +5,7 @@ public class ifkondisi {
         Scanner input = new Scanner(System.in);
 
         int nilai;
-        System.out.println("Masukan nilai : ");
+        System.out.print("Masukan nilai : ");
         nilai = input.nextInt();
         
         System.out.println("Nilai Input : "+nilai);
