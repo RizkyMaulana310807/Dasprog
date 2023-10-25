@@ -50,8 +50,8 @@ public class konfersiSuhu {
             hasilReamur = (4.0 / 5.0) * (nilaiPertama - 273);
             System.out.print("Hasil konfersi suhu dari Kelvin ke Reamur Adalah : " + hasilReamur + "\n");
         } else{
-            System.out.println("--! Peringatan !--");
-            System.out.println("Pilihan tidak sesuai!");
+            System.out.println("--! Peringatan !--\n" + "Pilihan tidak sesuai");
+            
         }
 
 
