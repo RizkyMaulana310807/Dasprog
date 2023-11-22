@@ -1,5 +1,5 @@
 public class dowhile {
-    public static void main(String[] args) {
+    static void perulanganDoWhile(){
         //Perulangan menggunakan do while
         System.out.println("|| Do While Perulangan ||");
         int i = 1;
@@ -15,7 +15,8 @@ public class dowhile {
             System.out.print(j + ", ");
             j += 2;
         } while (j <= 100);
-
+    }
+    static void perulanganWhile(){
         //Perulangan menggunakan While
         System.out.println("");
         System.out.println("|| While perulangan ||");
@@ -32,5 +33,9 @@ public class dowhile {
             l += 2;
         }
         System.out.println("");
+    }
+    public static void main(String[] args) {
+        perulanganDoWhile();
+        perulanganWhile();
     }
 }
