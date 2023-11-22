@@ -9,7 +9,11 @@ public class forbintang{
         }
         System.out.println("=-=-=- Soal 2 -=-=-=");
         System.out.println("");
+<<<<<<< HEAD
         System.out.print("  *"); //alternatif
+=======
+        System.out.print("  *");
+>>>>>>> 1da13c6 (Looping Tugas)
         for(int i = 0; i <= 3; i++){
             for(int j = 0; j <= 2 - i; j++){
                 System.out.print(" ");
