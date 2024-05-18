@@ -1,0 +1,9 @@
+#operator{
+    width: 15px;
+}
+input{
+    text-align: center;
+    font-family: 'bruce forever';
+    border: 1px solid black;
+    border-radius: 20px;
+}
